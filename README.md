@@ -1,0 +1,1 @@
+# python3-p3-swigwin-4.2.0-Lib-swig.swg
